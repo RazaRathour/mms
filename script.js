@@ -11,7 +11,7 @@ const adminBtn = document.getElementById('footerAdminLink');
 const uploadSection = document.getElementById('upload');
 const adminDashboard = document.getElementById('adminDashboard');
 const videoContainer = document.getElementById('videoContainer');
-const COUNTAPI_NS = 'mmsleak.razaz.de';
+const COUNTAPI_NS = 'mmsleaked.netlify.app';
 const ADMIN_HASH_KEY = 'mms_admin_hash';
 let viewsChartInstance = null;
 
